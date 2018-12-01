@@ -12,9 +12,10 @@ The description of the data is contained in the downlowded package.
 
 Please unpack the package and move the data file(rawData.pkl) to the subdirectory ./data/ (configured in config.py)
 Then the following command should run the training phase:
-  >> python train.py
+  > python train.py
  
 To see the figure of cumulative reward, try:
-  >> python plot.py
+  > python plot.py
+
 The figure should be plotted and saved.
 
