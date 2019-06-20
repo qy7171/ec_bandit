@@ -7,7 +7,7 @@ python3 supported with numpy/scipy/matplotlib/pandas/coloredlogs. All package sh
 
 Data:
 Please go to the following link and download the data named Xiaomu Questioning:
-  http://moocdata.org/data
+  http://moocdata.cn/data
 The description of the data is contained in the downlowded package.
 
 Please unpack the package and move the data file(rawData.pkl) to the subdirectory ./data/ (configured in config.py)
